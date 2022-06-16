@@ -5,13 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mivoligo" alt="mivoligo" /></a> </p>
 
-- 🔭 I’m currently working on [**an app about ideas for an app**](https://github.com/mivoligo/app_ideas)
-
-- 👯 I’m collaborating on [**Unofficial Ubuntu Desktop Settings App made with Flutter**](https://github.com/Feichtmeier/settings)
-
-- 💬 Ask me about **Flutter, Ubuntu, shortbreads**
-
-- 📫 How to reach me **I'm usually helping new programmers in the Flutter discord server: https://discord.com/invite/N7Yshp4**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
